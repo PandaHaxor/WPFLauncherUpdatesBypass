@@ -1,0 +1,2 @@
+# WPFLauncherUpdatesBypass
+lul
